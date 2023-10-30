@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLA5/mMBrPFG8tM3V4crCqVEHVAXk0ZjFRziUX0cuqq2Bw843XDOUnJE/I3vSLeGq62+gZpLmw9p97Giv8IFeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dini\\Source\\Repos\\cs-BankiSzolgaltatasok-template\\BankiSzolgaltatasok\\BankiSzolgaltatasok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
